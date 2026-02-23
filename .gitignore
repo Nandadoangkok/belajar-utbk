@@ -25,3 +25,6 @@ Thumbs.db
 
 # Uploads (if any)
 uploads/
+
+# Database configuration - NEVER commit to GitHub!
+service/database.php
